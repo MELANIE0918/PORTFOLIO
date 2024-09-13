@@ -1,0 +1,38 @@
+.new{
+    background-image: url(image/11062b_f6efc53ab8464a6691e4dd67114c117d~mv2.webp);
+    background-size: cover;
+}
+.span1{
+    color: white;
+    text-align: right;
+}
+.span2{
+    color: white;
+}
+.span3{
+    color: white;
+}
+.span4{
+    color: white;
+}
+.image-container{
+    position: relative;
+    display: inline-block;
+}
+.image-container, .new{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.overlay-text{
+    background-color: rgba(0, 0, 0, 0.74);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 370px;
+}
+
